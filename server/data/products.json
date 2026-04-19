@@ -1,202 +1,32 @@
 [
-  {
-    "id": 1, "name": "Banarasi Silk Saree", "brand": "Palam Silks", "price": 4999, "originalPrice": 7999,
-    "category": "Saree", "gender": "Women", "wearType": "Full Set", "season": "All Season",
-    "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=600&q=80",
-    "trending": true, "rating": 4.8, "reviews": 124,
-    "description": "Exquisite Banarasi silk saree with intricate gold zari work. Perfect for weddings and festivities.",
-    "colors": ["#c0392b","#8e44ad","#2c3e50","#d4ac0d"], "sizes": ["Free Size"], "badge": "Bestseller"
-  },
-  {
-    "id": 2, "name": "Kanjivaram Silk Saree", "brand": "Chennai Silks", "price": 8999, "originalPrice": 12999,
-    "category": "Saree", "gender": "Women", "wearType": "Full Set", "season": "All Season",
-    "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=600&q=80",
-    "trending": true, "rating": 4.9, "reviews": 89,
-    "description": "Traditional Kanjivaram pure silk saree with temple border design. Ideal for weddings.",
-    "colors": ["#922b21","#1a5276","#117a65","#784212"], "sizes": ["Free Size"], "badge": "Premium"
-  },
-  {
-    "id": 3, "name": "Georgette Party Saree", "brand": "Fab India", "price": 2499, "originalPrice": 3999,
-    "category": "Saree", "gender": "Women", "wearType": "Full Set", "season": "Summer",
-    "image": "https://images.unsplash.com/photo-1617627143233-9c2b80682d80?auto=format&fit=crop&w=600&q=80",
-    "trending": false, "rating": 4.5, "reviews": 67,
-    "description": "Lightweight georgette saree perfect for parties and casual occasions.",
-    "colors": ["#e91e63","#9c27b0","#00bcd4","#ff9800"], "sizes": ["Free Size"], "badge": "New"
-  },
-  {
-    "id": 4, "name": "Chiffon Printed Saree", "brand": "W For Women", "price": 1899, "originalPrice": 2999,
-    "category": "Saree", "gender": "Women", "wearType": "Full Set", "season": "Summer",
-    "image": "https://images.unsplash.com/photo-1583396618422-8e19e50af0b3?auto=format&fit=crop&w=600&q=80",
-    "trending": false, "rating": 4.3, "reviews": 45,
-    "description": "Elegant chiffon saree with modern digital print for casual outings.",
-    "colors": ["#f06292","#81c784","#64b5f6","#ffb74d"], "sizes": ["Free Size"], "badge": null
-  },
-  {
-    "id": 5, "name": "Anarkali Suit Set", "brand": "Biba", "price": 3499, "originalPrice": 5499,
-    "category": "Anarkali", "gender": "Women", "wearType": "Full Set", "season": "All Season",
-    "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=600&q=80",
-    "trending": true, "rating": 4.7, "reviews": 112,
-    "description": "Beautiful Anarkali suit with dupatta - perfect for festive occasions and celebrations.",
-    "colors": ["#c0392b","#1abc9c","#2980b9","#f39c12"], "sizes": ["XS","S","M","L","XL","XXL"], "badge": "Trending"
-  },
-  {
-    "id": 6, "name": "Floral Anarkali Kurta", "brand": "Libas", "price": 2199, "originalPrice": 3499,
-    "category": "Anarkali", "gender": "Women", "wearType": "Full Set", "season": "Summer",
-    "image": "https://images.unsplash.com/photo-1580651315530-69c8e0026377?auto=format&fit=crop&w=600&q=80",
-    "trending": true, "rating": 4.6, "reviews": 78,
-    "description": "Floral printed Anarkali kurta with palazzo pants - the perfect festive combo.",
-    "colors": ["#e74c3c","#9b59b6","#27ae60","#f1c40f"], "sizes": ["S","M","L","XL"], "badge": null
-  },
-  {
-    "id": 7, "name": "Punjabi Patiala Suit", "brand": "Fab India", "price": 2199, "originalPrice": 3299,
-    "category": "Suit", "gender": "Women", "wearType": "Full Set", "season": "All Season",
-    "image": "https://images.unsplash.com/photo-1551232864-3f0890e580d9?auto=format&fit=crop&w=600&q=80",
-    "trending": false, "rating": 4.4, "reviews": 56,
-    "description": "Classic Patiala suit with heavy embroidery on yoke and bottom. Comfortable daily wear.",
-    "colors": ["#3498db","#e67e22","#2ecc71","#9b59b6"], "sizes": ["XS","S","M","L","XL"], "badge": "Sale"
-  },
-  {
-    "id": 8, "name": "Embroidered Palazzo Suit", "brand": "Biba", "price": 2899, "originalPrice": 4499,
-    "category": "Suit", "gender": "Women", "wearType": "Full Set", "season": "All Season",
-    "image": "https://images.unsplash.com/photo-1614850523459-c2f4c699c52e?auto=format&fit=crop&w=600&q=80",
-    "trending": false, "rating": 4.5, "reviews": 34,
-    "description": "Stylish palazzo suit with floral embroidery work. Perfect for office and outings.",
-    "colors": ["#c0392b","#8e44ad","#16a085"], "sizes": ["S","M","L","XL","XXL"], "badge": null
-  },
-  {
-    "id": 9, "name": "Slim Fit Blue Jeans", "brand": "Levi's", "price": 2999, "originalPrice": 4999,
-    "category": "Jeans", "gender": "Men", "wearType": "Lower Wear", "season": "All Season",
-    "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=600&q=80",
-    "trending": true, "rating": 4.8, "reviews": 234,
-    "description": "Classic slim fit jeans with stretch fabric for ultimate comfort. Great for any occasion.",
-    "colors": ["#1a237e","#37474f","#212121"], "sizes": ["28","30","32","34","36","38"], "badge": "Bestseller"
-  },
-  {
-    "id": 10, "name": "High Waist Skinny Jeans", "brand": "H&M", "price": 1999, "originalPrice": 2999,
-    "category": "Fashion Jeans", "gender": "Women", "wearType": "Lower Wear", "season": "All Season",
-    "image": "https://images.unsplash.com/photo-1604176354204-9268737828e4?auto=format&fit=crop&w=600&q=80",
-    "trending": true, "rating": 4.6, "reviews": 189,
-    "description": "High-rise skinny jeans with a flattering silhouette. Essential wardrobe staple.",
-    "colors": ["#1565c0","#263238","#4e342e"], "sizes": ["26","28","30","32","34"], "badge": "Hot"
-  },
-  {
-    "id": 11, "name": "Ripped Boyfriend Jeans", "brand": "Zara", "price": 3499, "originalPrice": 4999,
-    "category": "Fashion Jeans", "gender": "Women", "wearType": "Lower Wear", "season": "All Season",
-    "image": "https://images.unsplash.com/photo-1475178626620-a4d074967452?auto=format&fit=crop&w=600&q=80",
-    "trending": true, "rating": 4.7, "reviews": 156,
-    "description": "Trendy ripped boyfriend jeans perfect for casual and street styling.",
-    "colors": ["#1976d2","#455a64"], "sizes": ["26","28","30","32","34","36"], "badge": "Trending"
-  },
-  {
-    "id": 12, "name": "Men's Cargo Jeans", "brand": "Wrangler", "price": 2499, "originalPrice": 3999,
-    "category": "Jeans", "gender": "Men", "wearType": "Lower Wear", "season": "All Season",
-    "image": "https://images.unsplash.com/photo-1543508282-6319a3e2621f?auto=format&fit=crop&w=600&q=80",
-    "trending": false, "rating": 4.4, "reviews": 98,
-    "description": "Rugged cargo jeans with extra pockets for everyday functionality.",
-    "colors": ["#1a237e","#5d4037","#607d8b"], "sizes": ["28","30","32","34","36"], "badge": null
-  },
-  {
-    "id": 13, "name": "Floral Crop Top", "brand": "H&M", "price": 799, "originalPrice": 1299,
-    "category": "Crop Top", "gender": "Women", "wearType": "Upper Wear", "season": "Summer",
-    "image": "https://images.unsplash.com/photo-1485462537746-965f33f7f6a7?auto=format&fit=crop&w=600&q=80",
-    "trending": true, "rating": 4.5, "reviews": 145,
-    "description": "Trendy floral print crop top perfect for summer styling and beach outings.",
-    "colors": ["#ff6090","#ffffff","#ffd54f"], "sizes": ["XS","S","M","L","XL"], "badge": "New"
-  },
-  {
-    "id": 14, "name": "Solid Casual Top", "brand": "Zara", "price": 999, "originalPrice": 1599,
-    "category": "Tops", "gender": "Women", "wearType": "Upper Wear", "season": "Summer",
-    "image": "https://images.unsplash.com/photo-1558171813-a657e0b75dac?auto=format&fit=crop&w=600&q=80",
-    "trending": false, "rating": 4.3, "reviews": 89,
-    "description": "Versatile solid color top that pairs well with jeans or skirts.",
-    "colors": ["#ffffff","#000000","#e91e63","#2196f3","#4caf50"], "sizes": ["XS","S","M","L","XL","XXL"], "badge": null
-  },
-  {
-    "id": 15, "name": "Puff Sleeve Blouse", "brand": "Mango", "price": 1499, "originalPrice": 2299,
-    "category": "Tops", "gender": "Women", "wearType": "Upper Wear", "season": "All Season",
-    "image": "https://images.unsplash.com/photo-1562572159-4efc207f5aff?auto=format&fit=crop&w=600&q=80",
-    "trending": true, "rating": 4.7, "reviews": 67,
-    "description": "Stylish puff sleeve blouse with elegant ruffled detailing. Party-ready look.",
-    "colors": ["#ffffff","#fce4ec","#e3f2fd","#f9fbe7"], "sizes": ["S","M","L","XL"], "badge": "Trending"
-  },
-  {
-    "id": 16, "name": "Men's Graphic Tee", "brand": "H&M", "price": 699, "originalPrice": 999,
-    "category": "Tops", "gender": "Men", "wearType": "Upper Wear", "season": "Summer",
-    "image": "https://images.unsplash.com/photo-1503341504253-dff4815485f1?auto=format&fit=crop&w=600&q=80",
-    "trending": false, "rating": 4.2, "reviews": 112,
-    "description": "Cool graphic printed tee for casual everyday wear. Breathable cotton fabric.",
-    "colors": ["#212121","#ffffff","#e53935"], "sizes": ["S","M","L","XL","XXL"], "badge": "Sale"
-  },
-  {
-    "id": 17, "name": "Men's Formal Shirt", "brand": "Peter England", "price": 1499, "originalPrice": 2499,
-    "category": "Tops", "gender": "Men", "wearType": "Upper Wear", "season": "All Season",
-    "image": "https://images.unsplash.com/photo-1620799139507-2a76f79a2f4d?auto=format&fit=crop&w=600&q=80",
-    "trending": false, "rating": 4.5, "reviews": 167,
-    "description": "Classic formal shirt in premium cotton blend. Great for office and events.",
-    "colors": ["#ffffff","#90caf9","#4db6ac","#ef9a9a"], "sizes": ["S","M","L","XL","XXL"], "badge": null
-  },
-  {
-    "id": 18, "name": "Women's Winter Jacket", "brand": "Roadster", "price": 3999, "originalPrice": 5999,
-    "category": "Winter Jacket", "gender": "Women", "wearType": "Upper Wear", "season": "Winter",
-    "image": "https://images.unsplash.com/photo-1548624313-0396c75e4b1a?auto=format&fit=crop&w=600&q=80",
-    "trending": true, "rating": 4.8, "reviews": 203,
-    "description": "Warm padded jacket with fleece lining. Perfect for cold winters and mountain trips.",
-    "colors": ["#212121","#b71c1c","#1a237e","#004d40"], "sizes": ["S","M","L","XL","XXL"], "badge": "Hot"
-  },
-  {
-    "id": 19, "name": "Men's Puffer Jacket", "brand": "The North Face", "price": 6999, "originalPrice": 9999,
-    "category": "Winter Jacket", "gender": "Men", "wearType": "Upper Wear", "season": "Winter",
-    "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=600&q=80",
-    "trending": true, "rating": 4.9, "reviews": 178,
-    "description": "Premium puffer jacket with down insulation. Ideal for Manali, Shimla & snowy treks.",
-    "colors": ["#000000","#1565c0","#2e7d32","#6a1b9a"], "sizes": ["S","M","L","XL","XXL"], "badge": "Premium"
-  },
-  {
-    "id": 20, "name": "Kids Unisex Warm Jacket", "brand": "H&M Kids", "price": 1999, "originalPrice": 2999,
-    "category": "Winter Jacket", "gender": "Kids", "wearType": "Upper Wear", "season": "Winter",
-    "image": "https://images.unsplash.com/photo-1519457431-44ccd64a579b?auto=format&fit=crop&w=600&q=80",
-    "trending": false, "rating": 4.6, "reviews": 89,
-    "description": "Cozy warm jacket for kids with soft fleece lining. Keeps them warm all winter.",
-    "colors": ["#e91e63","#1976d2","#388e3c","#f57c00"], "sizes": ["2-3Y","3-4Y","4-5Y","5-6Y","6-7Y"], "badge": "New"
-  },
-  {
-    "id": 21, "name": "Girls Party Frock", "brand": "Mothercare", "price": 1299, "originalPrice": 1999,
-    "category": "Kids Wear", "gender": "Girls", "wearType": "Full Set", "season": "All Season",
-    "image": "https://images.unsplash.com/photo-1622290291468-a28f7a7dc6a8?auto=format&fit=crop&w=600&q=80",
-    "trending": true, "rating": 4.9, "reviews": 90,
-    "description": "Sparkly tulle party dress perfect for birthday parties and festive occasions.",
-    "colors": ["#e91e63","#9c27b0","#ff5722"], "sizes": ["2-3Y","3-4Y","4-5Y","5-6Y"], "badge": "Bestseller"
-  },
-  {
-    "id": 22, "name": "Boys Casual Tee & Shorts", "brand": "FirstCry", "price": 649, "originalPrice": 999,
-    "category": "Kids Wear", "gender": "Boys", "wearType": "Full Set", "season": "Summer",
-    "image": "https://images.unsplash.com/photo-1471286174890-9c112ffca5b4?auto=format&fit=crop&w=600&q=80",
-    "trending": false, "rating": 4.4, "reviews": 43,
-    "description": "Comfortable cotton summer t-shirt and shorts set for boys. Breathable and fun!",
-    "colors": ["#ff9800","#4caf50","#2196f3"], "sizes": ["2-3Y","3-4Y","4-5Y","5-6Y","6-7Y"], "badge": "Sale"
-  },
-  {
-    "id": 23, "name": "Girls Summer Dress", "brand": "Mothercare", "price": 899, "originalPrice": 1499,
-    "category": "Kids Wear", "gender": "Girls", "wearType": "Full Set", "season": "Summer",
-    "image": "https://images.unsplash.com/photo-1518831959646-742c3a14ebf7?auto=format&fit=crop&w=600&q=80",
-    "trending": true, "rating": 4.7, "reviews": 72,
-    "description": "Breezy floral summer dress for girls. Soft cotton with adjustable straps.",
-    "colors": ["#f48fb1","#fff9c4","#b2ebf2"], "sizes": ["2-3Y","3-4Y","4-5Y","5-6Y","7-8Y"], "badge": null
-  },
-  {
-    "id": 24, "name": "Women's Beach Coord Set", "brand": "Zara", "price": 2499, "originalPrice": 3999,
-    "category": "Crop Top", "gender": "Women", "wearType": "Full Set", "season": "Summer",
-    "image": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?auto=format&fit=crop&w=600&q=80",
-    "trending": true, "rating": 4.6, "reviews": 134,
-    "description": "Trendy matching crop top and trouser coord set for beach vacations and summer parties.",
-    "colors": ["#ffffff","#fff9c4","#b2ebf2","#f8bbd0"], "sizes": ["XS","S","M","L","XL"], "badge": "Hot"
-  },
-  {
-    "id": 25, "name": "Men's Chino Trousers", "brand": "Marks & Spencer", "price": 2199, "originalPrice": 3499,
-    "category": "Jeans", "gender": "Men", "wearType": "Lower Wear", "season": "All Season",
-    "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?auto=format&fit=crop&w=600&q=80",
-    "trending": false, "rating": 4.5, "reviews": 88,
-    "description": "Smart casual chino trousers in stretch fabric. Perfect for office and weekends.",
-    "colors": ["#f5f5dc","#808000","#212121","#5d4037"], "sizes": ["28","30","32","34","36"], "badge": null
-  }
+  {"id":1,"name":"Banarasi Silk Saree","brand":"Palam Silks","price":4999,"originalPrice":7999,"category":"Saree","gender":"Women","wearType":"Full Set","season":"All Season","occasion":"Wedding","ageGroup":"Adult","image":"https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=600&q=80","trending":true,"rating":4.8,"reviews":124,"description":"Exquisite Banarasi silk saree with intricate gold zari work. Perfect for weddings.","colors":["#c0392b","#8e44ad","#2c3e50","#d4ac0d"],"sizes":["Free Size"],"badge":"Bestseller"},
+  {"id":2,"name":"Kanjivaram Silk Saree","brand":"Chennai Silks","price":8999,"originalPrice":12999,"category":"Saree","gender":"Women","wearType":"Full Set","season":"All Season","occasion":"Wedding","ageGroup":"Adult","image":"https://images.unsplash.com/photo-1483985988355-763728e1cec6?auto=format&fit=crop&w=600&q=80","trending":true,"rating":4.9,"reviews":89,"description":"Traditional Kanjivaram pure silk saree with temple border design.","colors":["#922b21","#1a5276","#117a65","#784212"],"sizes":["Free Size"],"badge":"Premium"},
+  {"id":3,"name":"Georgette Party Saree","brand":"Fab India","price":2499,"originalPrice":3999,"category":"Saree","gender":"Women","wearType":"Full Set","season":"Summer","occasion":"Party","ageGroup":"Adult","image":"https://images.unsplash.com/photo-1445205170230-053b83016050?auto=format&fit=crop&w=600&q=80","trending":false,"rating":4.5,"reviews":67,"description":"Lightweight georgette saree perfect for parties and casual occasions.","colors":["#e91e63","#9c27b0","#00bcd4","#ff9800"],"sizes":["Free Size"],"badge":"New"},
+  {"id":4,"name":"Chiffon Daily Saree","brand":"W For Women","price":1899,"originalPrice":2999,"category":"Saree","gender":"Women","wearType":"Full Set","season":"Summer","occasion":"Casual","ageGroup":"Adult","image":"https://images.unsplash.com/photo-1469334031218-e382a71b716b?auto=format&fit=crop&w=600&q=80","trending":false,"rating":4.3,"reviews":45,"description":"Elegant chiffon saree with modern digital print for casual outings.","colors":["#f06292","#81c784","#64b5f6","#ffb74d"],"sizes":["Free Size"],"badge":null},
+  {"id":5,"name":"Bridal Lehenga Choli","brand":"Manish Malhotra","price":24999,"originalPrice":39999,"category":"Wedding","gender":"Women","wearType":"Full Set","season":"All Season","occasion":"Wedding","ageGroup":"Adult","image":"https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=600&q=80","trending":true,"rating":4.9,"reviews":203,"description":"Stunning bridal lehenga with heavy embroidery and dupatta. The perfect wedding look.","colors":["#c0392b","#8e44ad","#e91e63","#d4ac0d"],"sizes":["XS","S","M","L","XL"],"badge":"Bridal"},
+  {"id":6,"name":"Sangeet Lehenga Set","brand":"Sabyasachi","price":14999,"originalPrice":22999,"category":"Wedding","gender":"Women","wearType":"Full Set","season":"All Season","occasion":"Sangeet","ageGroup":"Adult","image":"https://images.unsplash.com/photo-1523381210434-271e8be1f52b?auto=format&fit=crop&w=600&q=80","trending":true,"rating":4.8,"reviews":156,"description":"Vibrant and colorful lehenga for sangeet function. Dance the night away!","colors":["#ff6090","#9c27b0","#ff9800","#00bcd4"],"sizes":["XS","S","M","L","XL"],"badge":"Trending"},
+  {"id":7,"name":"Haldi Yellow Suit","brand":"Fab India","price":3499,"originalPrice":5499,"category":"Suit","gender":"Women","wearType":"Full Set","season":"Summer","occasion":"Haldi","ageGroup":"Adult","image":"https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=600&q=80","trending":true,"rating":4.7,"reviews":112,"description":"Bright yellow cotton suit perfect for Haldi ceremony. Comfortable and vibrant.","colors":["#f9a825","#fdd835","#ffee58"],"sizes":["XS","S","M","L","XL","XXL"],"badge":"Haldi Special"},
+  {"id":8,"name":"Mehendi Green Anarkali","brand":"Biba","price":3999,"originalPrice":5999,"category":"Suit","gender":"Women","wearType":"Full Set","season":"All Season","occasion":"Mehendi","ageGroup":"Adult","image":"https://images.unsplash.com/photo-1485231183945-fffde7a15f9f?auto=format&fit=crop&w=600&q=80","trending":true,"rating":4.8,"reviews":134,"description":"Gorgeous green suit for Mehendi ceremony. Floral embroidery with dupatta.","colors":["#2e7d32","#388e3c","#66bb6a","#a5d6a7"],"sizes":["XS","S","M","L","XL","XXL"],"badge":"Mehendi Special"},
+  {"id":9,"name":"Groom Sherwani Set","brand":"Manyavar","price":18999,"originalPrice":28999,"category":"Wedding","gender":"Men","wearType":"Full Set","season":"All Season","occasion":"Wedding","ageGroup":"Adult","image":"https://images.unsplash.com/photo-1552374196-c4e7ffc6e126?auto=format&fit=crop&w=600&q=80","trending":true,"rating":4.9,"reviews":178,"description":"Regal sherwani with golden embroidery for the groom. Comes with churidar and dupatta.","colors":["#212121","#d4ac0d","#c0392b","#1a5276"],"sizes":["S","M","L","XL","XXL"],"badge":"Groom"},
+  {"id":10,"name":"Reception Gown","brand":"Anita Dongre","price":11999,"originalPrice":17999,"category":"Wedding","gender":"Women","wearType":"Full Set","season":"All Season","occasion":"Reception","ageGroup":"Adult","image":"https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=600&q=80","trending":true,"rating":4.7,"reviews":89,"description":"Elegant floor-length gown for reception. Modern Indo-western style with sequin work.","colors":["#ffffff","#f8bbd0","#e3f2fd","#c0392b"],"sizes":["XS","S","M","L","XL"],"badge":"Reception"},
+  {"id":11,"name":"Punjabi Patiala Suit","brand":"Fab India","price":2199,"originalPrice":3299,"category":"Suit","gender":"Women","wearType":"Full Set","season":"All Season","occasion":"Casual","ageGroup":"Adult","image":"https://images.unsplash.com/photo-1580651315530-69c8e0026377?auto=format&fit=crop&w=600&q=80","trending":false,"rating":4.4,"reviews":56,"description":"Classic Patiala suit with heavy embroidery on yoke and bottom.","colors":["#3498db","#e67e22","#2ecc71","#9b59b6"],"sizes":["XS","S","M","L","XL"],"badge":"Sale"},
+  {"id":12,"name":"Cotton Office Suit","brand":"W For Women","price":2899,"originalPrice":4499,"category":"Suit","gender":"Women","wearType":"Full Set","season":"All Season","occasion":"Casual","ageGroup":"Adult","image":"https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=600&q=80","trending":false,"rating":4.5,"reviews":34,"description":"Professional cotton suit ideal for office wear and formal meetings.","colors":["#c0392b","#8e44ad","#16a085"],"sizes":["S","M","L","XL","XXL"],"badge":null},
+  {"id":13,"name":"Slim Fit Blue Jeans","brand":"Levi's","price":2999,"originalPrice":4999,"category":"Jeans","gender":"Men","wearType":"Lower Wear","season":"All Season","occasion":"Casual","ageGroup":"Adult","image":"https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=600&q=80","trending":true,"rating":4.8,"reviews":234,"description":"Classic slim fit jeans with stretch fabric for ultimate comfort.","colors":["#1a237e","#37474f","#212121"],"sizes":["28","30","32","34","36","38"],"badge":"Bestseller"},
+  {"id":14,"name":"High Waist Skinny Jeans","brand":"H&M","price":1999,"originalPrice":2999,"category":"Fashion Jeans","gender":"Women","wearType":"Lower Wear","season":"All Season","occasion":"Casual","ageGroup":"Adult","image":"https://images.unsplash.com/photo-1604176354204-9268737828e4?auto=format&fit=crop&w=600&q=80","trending":true,"rating":4.6,"reviews":189,"description":"High-rise skinny jeans with a flattering silhouette.","colors":["#1565c0","#263238","#4e342e"],"sizes":["26","28","30","32","34"],"badge":"Hot"},
+  {"id":15,"name":"Ripped Boyfriend Jeans","brand":"Zara","price":3499,"originalPrice":4999,"category":"Fashion Jeans","gender":"Women","wearType":"Lower Wear","season":"All Season","occasion":"Party","ageGroup":"Adult","image":"https://images.unsplash.com/photo-1475178626620-a4d074967452?auto=format&fit=crop&w=600&q=80","trending":true,"rating":4.7,"reviews":156,"description":"Trendy ripped boyfriend jeans perfect for casual and street styling.","colors":["#1976d2","#455a64"],"sizes":["26","28","30","32","34","36"],"badge":"Trending"},
+  {"id":16,"name":"Floral Crop Top","brand":"H&M","price":799,"originalPrice":1299,"category":"Crop Top","gender":"Women","wearType":"Upper Wear","season":"Summer","occasion":"Beach","ageGroup":"Adult","image":"https://images.unsplash.com/photo-1485462537746-965f33f7f6a7?auto=format&fit=crop&w=600&q=80","trending":true,"rating":4.5,"reviews":145,"description":"Trendy floral print crop top perfect for summer and beach outings.","colors":["#ff6090","#ffffff","#ffd54f"],"sizes":["XS","S","M","L","XL"],"badge":"New"},
+  {"id":17,"name":"Women's Beach Coord Set","brand":"Zara","price":2499,"originalPrice":3999,"category":"Crop Top","gender":"Women","wearType":"Full Set","season":"Summer","occasion":"Beach","ageGroup":"Adult","image":"https://images.unsplash.com/photo-1558171813-a657e0b75dac?auto=format&fit=crop&w=600&q=80","trending":true,"rating":4.6,"reviews":134,"description":"Trendy matching crop top and trouser coord set for beach and summer parties.","colors":["#ffffff","#fff9c4","#b2ebf2","#f8bbd0"],"sizes":["XS","S","M","L","XL"],"badge":"Hot"},
+  {"id":18,"name":"Solid Casual Top","brand":"Zara","price":999,"originalPrice":1599,"category":"Tops","gender":"Women","wearType":"Upper Wear","season":"Summer","occasion":"Casual","ageGroup":"Adult","image":"https://images.unsplash.com/photo-1562572159-4efc207f5aff?auto=format&fit=crop&w=600&q=80","trending":false,"rating":4.3,"reviews":89,"description":"Versatile solid color top that pairs well with jeans or skirts.","colors":["#ffffff","#000000","#e91e63","#2196f3","#4caf50"],"sizes":["XS","S","M","L","XL","XXL"],"badge":null},
+  {"id":19,"name":"Men's Casual Tee","brand":"H&M","price":699,"originalPrice":999,"category":"Tops","gender":"Men","wearType":"Upper Wear","season":"Summer","occasion":"Casual","ageGroup":"Adult","image":"https://images.unsplash.com/photo-1503341504253-dff4815485f1?auto=format&fit=crop&w=600&q=80","trending":false,"rating":4.2,"reviews":112,"description":"Cool graphic printed tee for casual everyday wear.","colors":["#212121","#ffffff","#e53935"],"sizes":["S","M","L","XL","XXL"],"badge":"Sale"},
+  {"id":20,"name":"Men's Formal Shirt","brand":"Peter England","price":1499,"originalPrice":2499,"category":"Tops","gender":"Men","wearType":"Upper Wear","season":"All Season","occasion":"Casual","ageGroup":"Adult","image":"https://images.unsplash.com/photo-1620799139507-2a76f79a2f4d?auto=format&fit=crop&w=600&q=80","trending":false,"rating":4.5,"reviews":167,"description":"Classic formal shirt in premium cotton blend for office and events.","colors":["#ffffff","#90caf9","#4db6ac","#ef9a9a"],"sizes":["S","M","L","XL","XXL"],"badge":null},
+  {"id":21,"name":"Women's Puffer Jacket","brand":"Roadster","price":3999,"originalPrice":5999,"category":"Winter Jacket","gender":"Women","wearType":"Upper Wear","season":"Winter","occasion":"Casual","ageGroup":"Adult","image":"https://images.unsplash.com/photo-1548624313-0396c75e4b1a?auto=format&fit=crop&w=600&q=80","trending":true,"rating":4.8,"reviews":203,"description":"Warm padded jacket with fleece lining. Perfect for cold winters and Manali trips.","colors":["#212121","#b71c1c","#1a237e","#004d40"],"sizes":["S","M","L","XL","XXL"],"badge":"Hot"},
+  {"id":22,"name":"Men's Puffer Jacket","brand":"The North Face","price":6999,"originalPrice":9999,"category":"Winter Jacket","gender":"Men","wearType":"Upper Wear","season":"Winter","occasion":"Casual","ageGroup":"Adult","image":"https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=600&q=80","trending":true,"rating":4.9,"reviews":178,"description":"Premium puffer jacket with down insulation. Ideal for Manali, Shimla & snowy treks.","colors":["#000000","#1565c0","#2e7d32","#6a1b9a"],"sizes":["S","M","L","XL","XXL"],"badge":"Premium"},
+  {"id":23,"name":"Kids Warm Winter Jacket","brand":"H&M Kids","price":1999,"originalPrice":2999,"category":"Winter Jacket","gender":"Kids","wearType":"Upper Wear","season":"Winter","occasion":"Casual","ageGroup":"Kids","image":"https://images.unsplash.com/photo-1519457431-44ccd64a579b?auto=format&fit=crop&w=600&q=80","trending":false,"rating":4.6,"reviews":89,"description":"Cozy warm jacket for kids with soft fleece lining.","colors":["#e91e63","#1976d2","#388e3c","#f57c00"],"sizes":["2-3Y","3-4Y","4-5Y","5-6Y","6-7Y"],"badge":"New"},
+  {"id":24,"name":"Girls Party Frock","brand":"Mothercare","price":1299,"originalPrice":1999,"category":"Kids Wear","gender":"Girls","wearType":"Full Set","season":"All Season","occasion":"Party","ageGroup":"Kids","image":"https://images.unsplash.com/photo-1622290291468-a28f7a7dc6a8?auto=format&fit=crop&w=600&q=80","trending":true,"rating":4.9,"reviews":90,"description":"Sparkly tulle party dress perfect for birthday parties and festive occasions.","colors":["#e91e63","#9c27b0","#ff5722"],"sizes":["2-3Y","3-4Y","4-5Y","5-6Y"],"badge":"Bestseller"},
+  {"id":25,"name":"Boys Casual Tee & Shorts","brand":"FirstCry","price":649,"originalPrice":999,"category":"Kids Wear","gender":"Boys","wearType":"Full Set","season":"Summer","occasion":"Casual","ageGroup":"Kids","image":"https://images.unsplash.com/photo-1471286174890-9c112ffca5b4?auto=format&fit=crop&w=600&q=80","trending":false,"rating":4.4,"reviews":43,"description":"Comfortable cotton summer t-shirt and shorts set for boys.","colors":["#ff9800","#4caf50","#2196f3"],"sizes":["2-3Y","3-4Y","4-5Y","5-6Y","6-7Y"],"badge":"Sale"},
+  {"id":26,"name":"Girls Summer Dress","brand":"Mothercare","price":899,"originalPrice":1499,"category":"Kids Wear","gender":"Girls","wearType":"Full Set","season":"Summer","occasion":"Casual","ageGroup":"Kids","image":"https://images.unsplash.com/photo-1518831959646-742c3a14ebf7?auto=format&fit=crop&w=600&q=80","trending":true,"rating":4.7,"reviews":72,"description":"Breezy floral summer dress for girls. Soft cotton with adjustable straps.","colors":["#f48fb1","#fff9c4","#b2ebf2"],"sizes":["2-3Y","3-4Y","4-5Y","5-6Y","7-8Y"],"badge":null},
+  {"id":27,"name":"Maternity Kurti Set","brand":"Morph Maternity","price":1899,"originalPrice":2999,"category":"Suit","gender":"Women","wearType":"Full Set","season":"All Season","occasion":"Casual","ageGroup":"Maternity","image":"https://images.unsplash.com/photo-1485231183945-fffde7a15f9f?auto=format&fit=crop&w=600&q=80","trending":false,"rating":4.7,"reviews":88,"description":"Comfortable and stylish maternity kurti with adjustable fit. Breathable fabric.","colors":["#f8bbd0","#e3f2fd","#f1f8e9","#fff9c4"],"sizes":["S","M","L","XL","XXL"],"badge":"Maternity"},
+  {"id":28,"name":"Newborn Gift Set","brand":"Mee Mee","price":1299,"originalPrice":1999,"category":"Kids Wear","gender":"Newborn","wearType":"Full Set","season":"All Season","occasion":"Casual","ageGroup":"Newborn","image":"https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=600&q=80","trending":false,"rating":4.8,"reviews":134,"description":"Soft cotton newborn clothing set. Gentle on baby's sensitive skin. 0-6 months.","colors":["#ffffff","#f8bbd0","#e3f2fd","#f9fbe7"],"sizes":["0-3M","3-6M","6-9M"],"badge":"Baby"},
+  {"id":29,"name":"Senior Comfort Suit","brand":"Fab India","price":1699,"originalPrice":2499,"category":"Suit","gender":"Women","wearType":"Full Set","season":"All Season","occasion":"Casual","ageGroup":"Senior","image":"https://images.unsplash.com/photo-1469334031218-e382a71b716b?auto=format&fit=crop&w=600&q=80","trending":false,"rating":4.6,"reviews":67,"description":"Comfortable loose-fit suit for senior women. Easy to wear with soft fabric.","colors":["#90a4ae","#a5d6a7","#fff9c4","#f48fb1"],"sizes":["L","XL","XXL","3XL"],"badge":null},
+  {"id":30,"name":"Men's Chino Trousers","brand":"Marks & Spencer","price":2199,"originalPrice":3499,"category":"Jeans","gender":"Men","wearType":"Lower Wear","season":"All Season","occasion":"Casual","ageGroup":"Adult","image":"https://images.unsplash.com/photo-1473966968600-fa801b869a1a?auto=format&fit=crop&w=600&q=80","trending":false,"rating":4.5,"reviews":88,"description":"Smart casual chino trousers in stretch fabric. Perfect for office and weekends.","colors":["#f5f5dc","#808000","#212121","#5d4037"],"sizes":["28","30","32","34","36"],"badge":null}
 ]
