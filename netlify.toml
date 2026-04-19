@@ -4,7 +4,8 @@
 
 [build.environment]
   NODE_VERSION = "20"
-  NPM_FLAGS = "--version" # Just to check version in logs
+  CI = ""
+  NPM_FLAGS = "--version"
 
 [[redirects]]
   from = "/*"

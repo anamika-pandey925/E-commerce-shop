@@ -49,7 +49,7 @@ function App() {
     const fetchProducts = async () => {
       setLoading(true);
       try {
-        const url = new URL('http://localhost:5000/api/products');
+        const url = new URL('/api/products', window.location.origin);
         if (filter !== 'All') url.searchParams.append('category', filter);
         if (search) url.searchParams.append('search', search);
         
