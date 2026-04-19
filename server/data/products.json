@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Minimal Arc Watch",
+    "brand": "Casio",
+    "price": 2499,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=800&q=80",
+    "trending": true,
+    "description": "A sleek, minimalist watch for everyday elegance."
+  },
+  {
+    "id": 2,
+    "name": "Air Core Runner",
+    "brand": "Nike",
+    "price": 5999,
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=80",
+    "trending": true,
+    "description": "Lightweight running shoes with maximum cushioning."
+  },
+  {
+    "id": 3,
+    "name": "Void Shield Sunnies",
+    "brand": "Rayban",
+    "price": 3299,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1508296695146-257a814070b4?auto=format&fit=crop&w=800&q=80",
+    "trending": false,
+    "description": "Futuristic sunglasses with premium UV protection."
+  },
+  {
+    "id": 4,
+    "name": "Urban Shell Backpack",
+    "brand": "Herschel",
+    "price": 4799,
+    "category": "Bags",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=800&q=80",
+    "trending": true,
+    "description": "Durable backpack designed for the modern urban explorer."
+  },
+  {
+    "id": 5,
+    "name": "Mono Oversized Tee",
+    "brand": "MDRN Basics",
+    "price": 1299,
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?auto=format&fit=crop&w=800&q=80",
+    "trending": false,
+    "description": "Premium cotton tee with a perfect oversized fit."
+  },
+  {
+    "id": 6,
+    "name": "Stealth Cargo Pants",
+    "brand": "MDRN",
+    "price": 3999,
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?auto=format&fit=crop&w=800&q=80",
+    "trending": true,
+    "description": "Tech-wear inspired cargo pants with water resistance."
+  }
+]
